@@ -10,8 +10,12 @@ syntax enable
 
 set hlsearch
 set incsearch
+set ignorecase
+set smartcase
 
 set smartindent
 
 set laststatus=2
+
+set autoindent
 
